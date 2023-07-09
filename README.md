@@ -1,15 +1,10 @@
-# Navbar Animation #1
+# Maui Navbar Animation
 
-**.NET MAUI** implementation of [Navbar Animation #1](https://dribbble.com/shots/9852644-Navbar-Animation-1) design by [Marie Bernard](https://dribbble.com/marie_brn).
+# Original design
+![Animation1](https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/original%20design.gif)
 
-## Original design
-
-[![Dribbble Design](./Images/original%20design.gif)](https://dribbble.com/shots/9852644-Navbar-Animation-1)
-
+</br>
 ## My .NET MAUI implementation
-
-The application was built using .NET MAUI APIs and my [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) library.
-
 <p align="center">
     <img src="./Images/navbaranimation%20gif%20720.gif" data-canonical-src="./Images/navbaranimation%20gif%20720.gif" height="600" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,11 +19,3 @@ These are all the platforms the app works on:
 - iOS (macOS)
 - Windows
 
-### Features
-
-- Use of [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) library
-    - `SimpleShell`
-    - `ContentButton`
-    - `Icon`
-- `GraphicsView`
-- Animations
