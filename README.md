@@ -6,9 +6,9 @@
 </br>
 ## My .NET MAUI implementation
 <p align="center">
-    <img src="./Images/navbaranimation%20gif%20720.gif" data-canonical-src="./Images/navbaranimation%20gif%20720.gif" height="600" />
+    <img src="https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/navbaranimation%20gif%20720.gif" data-canonical-src="./Images/navbaranimation%20gif%20720.gif" height="600" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./Images/iphone_navbaranimation_1.png" data-canonical-src="./Images/iphone_navbaranimation_1.png" height="600" />
+    <img src="https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/iphone_navbaranimation_1.png" data-canonical-src="./Images/iphone_navbaranimation_1.png" height="600" />
 </p>
 
 ### Supported platforms
