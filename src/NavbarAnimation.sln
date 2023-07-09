@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NavbarAnimation.Maui", "NavbarAnimation.Maui\NavbarAnimation.Maui.csproj", "{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|iPhone.Build.0 = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{B1827CB1-2564-46F9-8EAE-E1219C5BD6AA}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5935B14-A454-4874-AE9E-DB712AE15A42}
+	EndGlobalSection
+EndGlobal
