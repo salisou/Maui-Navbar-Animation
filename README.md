@@ -3,7 +3,6 @@
 # Original design
 ![Animation1](https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/original%20design.gif)
 
-</br>
 ## My .NET MAUI implementation
 <p align="center">
     <img src="https://github.com/salisou/Maui-Navbar-Animation/blob/main/Images/navbaranimation%20gif%20720.gif" data-canonical-src="./Images/navbaranimation%20gif%20720.gif" height="600" />
